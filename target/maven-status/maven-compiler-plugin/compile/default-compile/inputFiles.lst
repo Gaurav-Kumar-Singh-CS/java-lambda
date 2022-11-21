@@ -1,2 +1,5 @@
 C:\Users\user\Documents\workspace-spring-tool-suite-4-4.10.0.RELEASE\aws\src\main\java\models\Order.java
-C:\Users\user\Documents\workspace-spring-tool-suite-4-4.10.0.RELEASE\aws\src\main\java\handler\GetUserHandler.java
+C:\Users\user\Documents\workspace-spring-tool-suite-4-4.10.0.RELEASE\aws\src\main\java\handler\SNSHandler.java
+C:\Users\user\Documents\workspace-spring-tool-suite-4-4.10.0.RELEASE\aws\src\main\java\handler\S3Handler.java
+C:\Users\user\Documents\workspace-spring-tool-suite-4-4.10.0.RELEASE\aws\src\main\java\handler\DynamoDBHandler.java
+C:\Users\user\Documents\workspace-spring-tool-suite-4-4.10.0.RELEASE\aws\src\main\java\models\Checkout.java
